@@ -1,5 +1,6 @@
 # psychic-octo-doodle
-To design and develop a Data Acquisition and Pre-processing Pipeline
+To design and develop a Data Acquisition and Pre-processing Pipeline 
+Link to the repository https://github.com/Pritirthe/psychic-octo-doodle/blob/main/PythonAssignment2.ipynb
 In this assignment we are using the web scraping for data acquisition from IMDB top 100 movie list and the link is: https://www.imdb.com/search/title/?groups=top_100&sort=user_rating,desc
 Data Acquisition - Alphonsa John
 In this website we can seen top 100 movie details like name, year of release, rating, and so on. 
