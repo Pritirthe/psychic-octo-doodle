@@ -16,5 +16,5 @@ Priti Tirthe have mainly work on data analysis pipeline, we connected the sql to
 Data Pre-processing - Tulika
 
 I (Tulika) have worked on the pre-processing of the data and established the connection with Database. The dataset is nearly flawless and only little data cleaning was necessary. The values seem in line and there are no missing or invalid values in the dataset. We have dropped the id column and replaces all spaces with underscores and also removed the occurance of "(" and ")", by replacing them with strings. We used MongoDB Atlas to connect to Python using PyMongo library. The connection process involves creating a MongoClient object and we have specified the connection details such as credentials in the code. Also, PFB the same:
-DB NAME: Jisons, COLLACTION NAME: movied and CREDS ( ID- tulikayadav16, PWD: 1WgLZ0xLWIAXPvJe  )
+DB NAME: Jisons, COLLACTION NAME: movies and CREDS ( ID- tulikayadav16, PWD: 1WgLZ0xLWIAXPvJe  )
 We have made sure in the code to drop the exixting collection using drop_collection. Pandas library has been used to perform the filtering, cleaning task.
